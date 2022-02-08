@@ -1,6 +1,6 @@
 {
   "name": "@ogliu-cli-demo/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ogliu-cli-demo core",
   "author": "LiuKun <308880147@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ogliu-cli-demo/utils": "^1.0.0"
+    "@ogliu-cli-demo/utils": "^1.0.1"
   },
   "publishConfig": {
     "access": "public"
