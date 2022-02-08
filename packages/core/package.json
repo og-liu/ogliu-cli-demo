@@ -1,0 +1,22 @@
+{
+  "name": "@ogliu-cli-demo/core",
+  "version": "1.0.0",
+  "description": "ogliu-cli-demo core",
+  "author": "LiuKun <308880147@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@ogliu-cli-demo/utils": "^1.0.0"
+  }
+}
